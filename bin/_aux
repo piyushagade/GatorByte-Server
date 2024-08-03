@@ -1,0 +1,28 @@
+/*
+    Modify console class so that a socket io event is emitted on a console.log, 
+    console.error, console.warning, or console.publish
+*/
+// exports.console = function (io) {
+//     var _log = console.log;
+//     var _error = console.error;
+//     var _warning = console.warning;
+
+//     console.error = function(message){
+//         if(io) io.to("server").emit("server/log", message);
+//         _error.apply(console,arguments);
+//     };
+
+//     console.log = function(message){
+//         if(io) io.to("server").emit("server/log", message);
+//         _log.apply(console,arguments);
+//     };
+
+//     console.warning = function(message){
+//         if(io) io.to("server").emit("server/log", message);
+//         _warning.apply(console,arguments);
+//     };
+
+//     console.publish = function(room, event, message){
+//         if(io) io.to(room).emit(event, message);
+//     };
+// }

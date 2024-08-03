@@ -1,0 +1,106 @@
+{
+    "SITE-ID": "gb-swb",
+    "LOCATION-NAME": "GB-Sweetwater Branch",
+    "INSTALLED-ON": "08/01/2021",
+    "TIMEZONE-OFFSET": "-5*3600",
+    "DATASTORE": "JSON",
+    "ADDRESS": {
+        "LOCATION": "Gainesville, FL",
+        "COORDINATES": [29.523252, -82.301510]
+    },
+    "ACTIVE": true,
+    "DATA-FIELDS": [
+        {
+            "ID": "RTD",
+            "NAME": "RTD sensor",
+            "ORDER": 1,
+            "CHART": {
+                "GROUP-NAME": "All",
+                "TYPE": "line",
+                "BIN": null,
+                "UNITS": "℃"
+            },
+            "TABLE": {
+                "GROUP-NAME": "All"
+            },
+            "DESCRIPTION": "PT1000 temperature sensor built within industrial pH sensor.",
+            "BRAND": "Atlas Scientific"
+        },
+        {
+            "ID": "PH",
+            "NAME": "pH sensor",
+            "ORDER": 2,
+            "CHART": {
+                "GROUP-NAME": "All",
+                "TYPE": "line",
+                "BIN": null,
+                "UNITS": ""
+            },
+            "TABLE": {
+                "GROUP-NAME": "All"
+            },
+            "CALIBRATION": {
+                "REQUIRED": true,
+                "LAST-CALIBRATED": null
+            },
+            "DESCRIPTION": "Mini lab-grade pH sensor",
+            "BRAND": "Atlas Scientific"
+        },
+        {
+            "ID": "EC",
+            "NAME": "EC sensor",
+            "ORDER": 3,
+            "CHART": {
+                "GROUP-NAME": "All",
+                "TYPE": "line",
+                "BIN": null,
+                "UNITS": "S"
+            },
+            "TABLE": {
+                "GROUP-NAME": "All"
+            },
+            "CALIBRATION": {
+                "REQUIRED": true,
+                "LAST-CALIBRATED": null
+            },
+            "DESCRIPTION": "Mini lab-grade pH sensor",
+            "BRAND": "Atlas Scientific"
+        },
+        {
+            "ID": "DO",
+            "NAME": "DO sensor",
+            "ORDER": 4,
+            "CHART": {
+                "GROUP-NAME": "All",
+                "TYPE": "line",
+                "BIN": null,
+                "UNITS": "mg/L"
+            },
+            "TABLE": {
+                "GROUP-NAME": "All"
+            },
+            "CALIBRATION": {
+                "REQUIRED": true,
+                "LAST-CALIBRATED": null
+            },
+            "DESCRIPTION": "Mini lab-grade pH sensor",
+            "BRAND": "Atlas Scientific"
+        }
+    ],
+    "PERIPHERALS": [
+        {
+            "ID": "rtc",
+            "NAME": "Real-time Clock",
+            "DESCRIPTION": "PT1000 temperature sensor built within industrial pH sensor.",
+            "BRAND": "Atlas Scientific",
+            "POWER": 1
+        },
+        {
+            "ID": "bl",
+            "NAME": "Bluetooth module",
+            "DESCRIPTION": "PT1000 temperature sensor built within industrial pH sensor.",
+            "BRAND": "Atlas Scientific",
+            "POWER": 1
+        }
+    ]
+}

@@ -1,0 +1,667 @@
+[
+    {
+        "EMAIL": "pagade@ufl.edu",
+        "PROJECTS": [
+            "uwre",
+            "irrec",
+            "chmd",
+            "leary",
+            "sasbjep"
+        ],
+        "SITES": [
+            {
+                "SITE-ID": "swb",
+                "SITE-TYPE": "gatorbit",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-sasbjep-zero",
+                "SITE-TYPE": "gatorbit",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-sasbjep-one",
+                "SITE-TYPE": "gatorbit",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-sasbjep-two",
+                "SITE-TYPE": "gatorbit",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lab",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-creek",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lake",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-vt-0",
+                "SITE-TYPE": "gatorbyte-vt",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-swb",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-swb-val",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "mqttfx",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "chewakla",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-bench-top",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-demo-buoy",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lab-buoy",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "caip",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-irrec-one",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-irrec-two",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-irrec-three",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-irrec-four",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-irrec-five",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-irrec-six",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-irrec-seven",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-irrec-eight",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-zero",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-venice",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-meadows",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-deer",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-bc-1",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-bc-2",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-lwr-1",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-lwr-2",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-grb",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lry-one",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lry-two",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lry-three",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lry-four",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lry-five",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lry-six",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lry-seven",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-eight",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-nine",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-ten",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            }
+        ]
+    },
+    {
+        "EMAIL": "ezbean@ufl.edu",
+        "PROJECTS": [
+            "uwre",
+            "irrec",
+            "chmd",
+            "leary",
+            "sasbjep"
+        ],
+        "SITES": [
+            {
+                "SITE-ID": "swb",
+                "SITE-TYPE": "gatorbit",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-sasbjep-zero",
+                "SITE-TYPE": "gatorbit",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-sasbjep-one",
+                "SITE-TYPE": "gatorbit",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-sasbjep-two",
+                "SITE-TYPE": "gatorbit",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-creek",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lake",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-swb",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "chewakla",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-demo-buoy",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-lab-buoy",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-irrec-one",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-two",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-three",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-four",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-five",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-six",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-seven",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-eight",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-chmd-one",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            }
+        ]
+    },
+    {
+        "EMAIL": "guest@gatorbyte",
+        "PROJECTS": [
+            "uwre"
+        ],
+        "SITES": [
+            {
+                "SITE-ID": "gb-demo-buoy",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lab-buoy",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "chewakla",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            }
+        ]
+    },
+    {
+        "EMAIL": "sandra.guzmangut@ufl.edu",
+        "PROJECTS": [
+            "irrec"
+        ],
+        "SITES": [
+            {
+                "SITE-ID": "gb-irrec-one",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-two",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-three",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-four",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-five",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-six",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-seven",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-eight",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            }
+        ]
+    },
+    {
+        "EMAIL": "stroobosscherz@ufl.edu",
+        "PROJECTS": [
+            "irrec"
+        ],
+        "SITES": [
+            {
+                "SITE-ID": "gb-irrec-one",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-two",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-three",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-four",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-five",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-six",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-seven",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-eight",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            }
+        ]
+    },
+    {
+        "EMAIL": "wongkenny13@ufl.edu",
+        "PROJECTS": [
+            "irrec"
+        ],
+        "SITES": [
+            {
+                "SITE-ID": "gb-irrec-one",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-two",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-three",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-four",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-five",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-six",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-seven",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-irrec-eight",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            }
+        ]
+    },
+    {
+        "EMAIL": "learyj@ufl.edu",
+        "PROJECTS": [
+            "leary"
+        ],
+        "SITES": [
+            {
+                "SITE-ID": "gb-lry-one",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-two",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-three",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-four",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-five",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-six",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-seven",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-eight",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-nine",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-ten",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            }
+        ]
+    },
+    {
+        "EMAIL": "guest.leary@gatorbyte",
+        "PROJECTS": [
+            "leary"
+        ],
+        "SITES": [
+            {
+                "SITE-ID": "gb-lry-one",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-two",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-three",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-four",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-five",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-six",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-seven",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-eight",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-nine",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            },
+            {
+                "SITE-ID": "gb-lry-ten",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "spectator"
+            }
+        ]
+    },
+    {
+        "EMAIL": "c.dissanayake@ufl.edu",
+        "PROJECTS": [
+            "chmd"
+        ],
+        "SITES": [
+            {
+                "SITE-ID": "gb-chmd-venice",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-meadows",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-deer",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-bc-1",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-bc-2",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-lwr-1",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-lwr-2",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            },
+            {
+                "SITE-ID": "gb-chmd-grb",
+                "SITE-TYPE": "gatorbyte",
+                "ROLE": "admin"
+            }
+        ]
+    }
+]

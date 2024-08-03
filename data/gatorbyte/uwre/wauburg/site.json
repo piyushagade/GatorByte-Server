@@ -1,0 +1,17 @@
+{
+    "site-id": "wauburg",
+    "location-name": "Lake Wauburg",
+    "installed-on": "02/11/2019",
+    "address": {
+        "location": "312 White Hurst Rd, Micanopy, FL 32667",
+        "coordinates": [29.523252, -82.301510]
+    },
+    "active": true,
+    "sensors": [
+            {
+            "name": "Atlas Scientific",
+            "distance-from-sensor-to-datum": 150.3,
+            "calibration-timestamp": "1595534827"
+        }
+    ]
+}

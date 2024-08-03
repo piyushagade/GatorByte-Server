@@ -1,0 +1,69 @@
+{
+    "SITE-ID":  "swb",
+    "LOCATION-NAME": "Sweetwater Branch",
+    "INSTALLED-ON": "02/11/2019",
+    "ADDRESS": {
+        "LOCATION": "SE 16th Ave & Willinston Rd",
+        "COORDINATES": [29.630172, -82.322214]
+    },
+    "ACTIVE": true,
+    "DATA-FIELDS": [
+        {
+            "ID": "WLEV",
+            "NAME": "Water level",
+            "ORDER": 0,
+            "HIGHLIGHT": true,
+            "CHART": {
+                "GROUP": "All",
+                "TYPE": "stocks",
+                "BIN": null
+            },
+            "TABLE": {
+                "GROUP": "All"
+            },
+            "DESCRIPTION": "Maxbotix MB7374 Ultrasonic sensor",
+            "BRAND": "Maxbotix",
+            "CALIBRATION": {
+                "REQUIRED": false,
+                "LAST-CALIBRATED": 1595534827000,
+                "TYPE": "reference",
+                "VALUE": 150.3,
+                "DESCRIPTION": "Substract the \"VALUE\" from each datapoint"
+            }
+        },
+        {
+            "ID": "BATT",
+            "NAME": "Battery",
+            "ORDER": 1,
+            "HIGHLIGHT": false,
+            "CHART": {
+                "GROUP": "All",
+                "TYPE": "line",
+                "HAS-OWN-CHART": false
+            },
+            "TABLE": {
+                "GROUP": "All"
+            },
+            "DESCRIPTION": "Generic 2000mAh Li-Po battery",
+            "BRAND": "N/A"
+        },
+        {
+            "ID": "FLOW",
+            "NAME": "Discharge",
+            "DERIVED": true,
+            "FORMULA": "2*{{WLEV}}^0.3",
+            "ORDER": 2,
+            "HIGHLIGHT": false,
+            "CHART": {
+                "GROUP": "All",
+                "TYPE": "line",
+                "HAS-OWN-CHART": false
+            },
+            "TABLE": {
+                "GROUP": "All"
+            },
+            "DESCRIPTION": "Discharge calculated using water level",
+            "BRAND": "N/A"
+        }
+    ]
+}

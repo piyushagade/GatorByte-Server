@@ -1,0 +1,28 @@
+{
+    "MicroPython.executeButton": [
+        {
+            "text": "▶",
+            "tooltip": "Run",
+            "alignment": "left",
+            "command": "extension.executeFile",
+            "priority": 3.5
+        }
+    ],
+    "MicroPython.syncButton": [
+        {
+            "text": "$(sync)",
+            "tooltip": "sync",
+            "alignment": "left",
+            "command": "extension.execute",
+            "priority": 4
+        }
+    ],
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "GatroByte MQTT Broker",
+            "host": "ezbean-lab.com",
+            "port": 1883,
+            "clientId": "vsmqtt_client_cecf"
+        }
+    ]
+}

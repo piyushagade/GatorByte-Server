@@ -1,0 +1,79 @@
+{
+    "SITE-ID":  "swb",
+    "LOCATION-NAME": "Sweetwater Branch",
+    "INSTALLED-ON": "02/11/2019",
+    "ADDRESS": {
+        "LOCATION": "SE 16th Ave & Willinston Rd",
+        "COORDINATES": [29.630172, -82.322214]
+    },
+    "ACTIVE": true,
+    "DATA-FIELDS": [
+        {
+            "ID": "WLEV",
+            "NAME": "Water level",
+            "ORDER": 0,
+            "HIGHLIGHT": true,
+            "FORMULA": "{{DATUM}}-{{WLEV}}",
+            "CHART": {
+                "GROUP-NAME": "All",
+                "TYPE": "stocks",
+                "BIN": null,
+                "UNITS": "in."
+            },
+            "TABLE": {
+                "GROUP-NAME": "All"
+            },
+            "DESCRIPTION": "Maxbotix MB7374 Ultrasonic sensor",
+            "BRAND": "Maxbotix",
+            "CALIBRATION": {
+                "REQUIRED": true,
+                "LAST-CALIBRATED": 1595534827000,
+                "TYPE": "datum",
+                "VALUE": 150.3,
+                "DESCRIPTION": "Substract each datapoint from the \"VALUE\"."
+            }
+        },
+        {
+            "ID": "BVOLT",
+            "NAME": "Battery",
+            "ORDER": 1,
+            "HIGHLIGHT": false,
+            "CHART": {
+                "GROUP-NAME": "All",
+                "TYPE": "line",
+                "HAS-OWN-CHART": false,
+                "UNITS": "V"
+            },
+            "TABLE": {
+                "GROUP-NAME": "All"
+            },
+            "DESCRIPTION": "Generic 2000mAh Li-Po battery",
+            "BRAND": "N/A"
+        },
+        {
+            "ID": "FLOW",
+            "NAME": "Discharge",
+            "FORMULA": "25.94 * Math.pow(({{WLEV}} / 12.0), 2.4)" ,
+            "ORDER": 2,
+            "HIGHLIGHT": false,
+            "CHART": {
+                "GROUP-NAME": "All",
+                "TYPE": "line",
+                "HAS-OWN-CHART": false,
+                "UNITS": "cfs"
+            },
+            "TABLE": {
+                "GROUP-NAME": "All"
+            },
+            "DESCRIPTION": "Discharge calculated using water level",
+            "BRAND": "N/A",
+            "CALIBRATION": {
+                "REQUIRED": true,
+                "LAST-CALIBRATED": 1595534827000,
+                "TYPE": "formula",
+                "VALUE": 150.3,
+                "DESCRIPTION": "Substract the \"VALUE\" from each datapoint"
+            }
+        }
+    ]
+}

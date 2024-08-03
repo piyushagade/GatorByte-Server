@@ -1,0 +1,2752 @@
+[
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "30",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243093",
+        "LAT": "29.03306",
+        "LNG": "-82.57413"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "27",
+        "RH": "48",
+        "FLTP": "199",
+        "TIMESTAMP": "1684242234",
+        "LAT": "29.03315",
+        "LNG": "-82.57422"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "27",
+        "RH": "48",
+        "FLTP": "199",
+        "TIMESTAMP": "1684242303",
+        "LAT": "29.03316",
+        "LNG": "-82.57432"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "27",
+        "RH": "48",
+        "FLTP": "199",
+        "TIMESTAMP": "1684242372",
+        "LAT": "29.03324",
+        "LNG": "-82.57422"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "27",
+        "RH": "48",
+        "FLTP": "199",
+        "TIMESTAMP": "1684242436",
+        "LAT": "29.03326",
+        "LNG": "-82.57410"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "28",
+        "RH": "48",
+        "FLTP": "199",
+        "TIMESTAMP": "1684242505",
+        "LAT": "29.03311",
+        "LNG": "-82.57412"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "28",
+        "RH": "47",
+        "FLTP": "199",
+        "TIMESTAMP": "1684242574",
+        "LAT": "29.03308",
+        "LNG": "-82.57415"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "28",
+        "RH": "47",
+        "FLTP": "199",
+        "TIMESTAMP": "1684242639",
+        "LAT": "29.03313",
+        "LNG": "-82.57414"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "28",
+        "RH": "64",
+        "FLTP": "199",
+        "TIMESTAMP": "1684242726",
+        "LAT": "29.03299",
+        "LNG": "-82.57404"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "30",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243182",
+        "LAT": "29.03309",
+        "LNG": "-82.57405"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "30",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243252",
+        "LAT": "29.03307",
+        "LNG": "-82.57403"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "30",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243291",
+        "LAT": "29.03321",
+        "LNG": "-82.57430"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "30",
+        "RH": "58",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243368",
+        "LAT": "29.03321",
+        "LNG": "-82.57413"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "30",
+        "RH": "57",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243408",
+        "LAT": "29.03304",
+        "LNG": "-82.57422"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "30",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243445",
+        "LAT": "29.03312",
+        "LNG": "-82.57407"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "31",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243485",
+        "LAT": "29.03301",
+        "LNG": "-82.57396"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "31",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243525",
+        "LAT": "29.03306",
+        "LNG": "-82.57405"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "31",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243561",
+        "LAT": "29.03310",
+        "LNG": "-82.57411"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "31",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243597",
+        "LAT": "29.03306",
+        "LNG": "-82.57409"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "31",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243633",
+        "LAT": "29.03312",
+        "LNG": "-82.57407"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243706",
+        "LAT": "29.03306",
+        "LNG": "-82.57404"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243742",
+        "LAT": "29.03309",
+        "LNG": "-82.57410"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243778",
+        "LAT": "29.03310",
+        "LNG": "-82.57411"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243818",
+        "LAT": "29.03311",
+        "LNG": "-82.57405"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243854",
+        "LAT": "29.03318",
+        "LNG": "-82.57397"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243895",
+        "LAT": "29.03309",
+        "LNG": "-82.57411"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "55",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243936",
+        "LAT": "29.03308",
+        "LNG": "-82.57414"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "55",
+        "FLTP": "199",
+        "TIMESTAMP": "1684243972",
+        "LAT": "29.03311",
+        "LNG": "-82.57415"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "55",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244012",
+        "LAT": "29.03324",
+        "LNG": "-82.57395"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "55",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244053",
+        "LAT": "29.03311",
+        "LNG": "-82.57406"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "55",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244089",
+        "LAT": "29.03311",
+        "LNG": "-82.57401"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "55",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244129",
+        "LAT": "29.03313",
+        "LNG": "-82.57398"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "55",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244169",
+        "LAT": "29.03323",
+        "LNG": "-82.57387"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "55",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244242",
+        "LAT": "29.03309",
+        "LNG": "-82.57407"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244311",
+        "LAT": "29.03310",
+        "LNG": "-82.57404"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244347",
+        "LAT": "29.03310",
+        "LNG": "-82.57388"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244383",
+        "LAT": "29.03306",
+        "LNG": "-82.57398"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244424",
+        "LAT": "29.03311",
+        "LNG": "-82.57393"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244460",
+        "LAT": "29.03307",
+        "LNG": "-82.57406"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244496",
+        "LAT": "29.03309",
+        "LNG": "-82.57404"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244532",
+        "LAT": "29.03309",
+        "LNG": "-82.57397"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244601",
+        "LAT": "29.03289",
+        "LNG": "-82.57343"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244675",
+        "LAT": "29.03179",
+        "LNG": "-82.57297"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244716",
+        "LAT": "29.03113",
+        "LNG": "-82.57288"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244753",
+        "LAT": "29.03117",
+        "LNG": "-82.57289"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244793",
+        "LAT": "29.03126",
+        "LNG": "-82.57294"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244829",
+        "LAT": "29.03135",
+        "LNG": "-82.57294"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244870",
+        "LAT": "29.03132",
+        "LNG": "-82.57307"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244910",
+        "LAT": "29.03135",
+        "LNG": "-82.57312"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244946",
+        "LAT": "29.03137",
+        "LNG": "-82.57320"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684244986",
+        "LAT": "29.03137",
+        "LNG": "-82.57329"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245026",
+        "LAT": "29.03135",
+        "LNG": "-82.57334"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245067",
+        "LAT": "29.03134",
+        "LNG": "-82.57341"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "50",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245107",
+        "LAT": "29.03137",
+        "LNG": "-82.57346"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245143",
+        "LAT": "29.03137",
+        "LNG": "-82.57349"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245184",
+        "LAT": "29.03136",
+        "LNG": "-82.57359"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245220",
+        "LAT": "29.03135",
+        "LNG": "-82.57363"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245293",
+        "LAT": "29.03141",
+        "LNG": "-82.57368"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245333",
+        "LAT": "29.03139",
+        "LNG": "-82.57375"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245374",
+        "LAT": "29.03164",
+        "LNG": "-82.57379"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245410",
+        "LAT": "29.03144",
+        "LNG": "-82.57383"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245446",
+        "LAT": "29.03148",
+        "LNG": "-82.57385"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245486",
+        "LAT": "29.03154",
+        "LNG": "-82.57392"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245555",
+        "LAT": "29.03156",
+        "LNG": "-82.57390"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245626",
+        "LAT": "29.03171",
+        "LNG": "-82.57396"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245667",
+        "LAT": "29.03176",
+        "LNG": "-82.57400"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245703",
+        "LAT": "29.03184",
+        "LNG": "-82.57400"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245743",
+        "LAT": "29.03188",
+        "LNG": "-82.57404"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245779",
+        "LAT": "29.03195",
+        "LNG": "-82.57411"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245815",
+        "LAT": "29.03199",
+        "LNG": "-82.57408"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245855",
+        "LAT": "29.03201",
+        "LNG": "-82.57412"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "51",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245891",
+        "LAT": "29.03206",
+        "LNG": "-82.57413"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245927",
+        "LAT": "29.03210",
+        "LNG": "-82.57412"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245963",
+        "LAT": "29.03213",
+        "LNG": "-82.57416"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684245999",
+        "LAT": "29.03214",
+        "LNG": "-82.57413"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246035",
+        "LAT": "29.03215",
+        "LNG": "-82.57416"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246071",
+        "LAT": "29.03218",
+        "LNG": "-82.57420"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246107",
+        "LAT": "29.03223",
+        "LNG": "-82.57417"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246143",
+        "LAT": "29.03224",
+        "LNG": "-82.57418"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246179",
+        "LAT": "29.03230",
+        "LNG": "-82.57423"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246215",
+        "LAT": "29.03234",
+        "LNG": "-82.57425"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246251",
+        "LAT": "29.03236",
+        "LNG": "-82.57423"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246320",
+        "LAT": "29.03241",
+        "LNG": "-82.57420"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246356",
+        "LAT": "29.03248",
+        "LNG": "-82.57423"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246392",
+        "LAT": "29.03253",
+        "LNG": "-82.57425"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246428",
+        "LAT": "29.03257",
+        "LNG": "-82.57424"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246464",
+        "LAT": "29.03256",
+        "LNG": "-82.57424"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246500",
+        "LAT": "29.03263",
+        "LNG": "-82.57420"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246536",
+        "LAT": "29.03270",
+        "LNG": "-82.57417"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246572",
+        "LAT": "29.03279",
+        "LNG": "-82.57417"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246608",
+        "LAT": "29.03282",
+        "LNG": "-82.57416"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246644",
+        "LAT": "29.03280",
+        "LNG": "-82.57414"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246680",
+        "LAT": "29.03288",
+        "LNG": "-82.57412"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246716",
+        "LAT": "29.03293",
+        "LNG": "-82.57410"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246752",
+        "LAT": "29.03292",
+        "LNG": "-82.57407"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246788",
+        "LAT": "29.03291",
+        "LNG": "-82.57406"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246856",
+        "LAT": "29.03296",
+        "LNG": "-82.57401"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246892",
+        "LAT": "29.03302",
+        "LNG": "-82.57402"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246928",
+        "LAT": "29.03303",
+        "LNG": "-82.57401"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684246964",
+        "LAT": "29.03299",
+        "LNG": "-82.57404"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247000",
+        "LAT": "29.03286",
+        "LNG": "-82.57411"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247041",
+        "LAT": "29.03246",
+        "LNG": "-82.57436"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "32",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247077",
+        "LAT": "29.03229",
+        "LNG": "-82.57442"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247145",
+        "LAT": "29.03223",
+        "LNG": "-82.57440"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247181",
+        "LAT": "29.03235",
+        "LNG": "-82.57454"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247250",
+        "LAT": "29.03223",
+        "LNG": "-82.57457"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247286",
+        "LAT": "29.03225",
+        "LNG": "-82.57446"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247322",
+        "LAT": "29.03195",
+        "LNG": "-82.57420"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247358",
+        "LAT": "29.03158",
+        "LNG": "-82.57378"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247394",
+        "LAT": "29.03137",
+        "LNG": "-82.57333"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247430",
+        "LAT": "29.03110",
+        "LNG": "-82.57307"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247466",
+        "LAT": "29.03109",
+        "LNG": "-82.57311"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247535",
+        "LAT": "29.03108",
+        "LNG": "-82.57316"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247571",
+        "LAT": "29.03107",
+        "LNG": "-82.57320"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247607",
+        "LAT": "29.03107",
+        "LNG": "-82.57325"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247675",
+        "LAT": "29.03101",
+        "LNG": "-82.57328"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "52",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247744",
+        "LAT": "29.03101",
+        "LNG": "-82.57335"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247813",
+        "LAT": "29.03099",
+        "LNG": "-82.57342"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247849",
+        "LAT": "29.03100",
+        "LNG": "-82.57342"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247885",
+        "LAT": "29.03097",
+        "LNG": "-82.57348"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247921",
+        "LAT": "29.03101",
+        "LNG": "-82.57350"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247957",
+        "LAT": "29.03105",
+        "LNG": "-82.57353"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684247993",
+        "LAT": "29.03099",
+        "LNG": "-82.57358"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248029",
+        "LAT": "29.03101",
+        "LNG": "-82.57365"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248065",
+        "LAT": "29.03103",
+        "LNG": "-82.57365"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248101",
+        "LAT": "29.03104",
+        "LNG": "-82.57368"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248137",
+        "LAT": "29.03104",
+        "LNG": "-82.57372"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248173",
+        "LAT": "29.03107",
+        "LNG": "-82.57368"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "53",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248209",
+        "LAT": "29.03105",
+        "LNG": "-82.57375"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248245",
+        "LAT": "29.03108",
+        "LNG": "-82.57377"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248281",
+        "LAT": "29.03112",
+        "LNG": "-82.57379"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248317",
+        "LAT": "29.03110",
+        "LNG": "-82.57387"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248353",
+        "LAT": "29.03113",
+        "LNG": "-82.57384"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248389",
+        "LAT": "29.03115",
+        "LNG": "-82.57381"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248425",
+        "LAT": "29.03114",
+        "LNG": "-82.57384"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248461",
+        "LAT": "29.03117",
+        "LNG": "-82.57384"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248497",
+        "LAT": "29.03117",
+        "LNG": "-82.57390"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248533",
+        "LAT": "29.03115",
+        "LNG": "-82.57394"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248569",
+        "LAT": "29.03117",
+        "LNG": "-82.57397"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248605",
+        "LAT": "29.03115",
+        "LNG": "-82.57399"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248641",
+        "LAT": "29.03116",
+        "LNG": "-82.57407"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248677",
+        "LAT": "29.03119",
+        "LNG": "-82.57414"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248713",
+        "LAT": "29.03116",
+        "LNG": "-82.57419"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "54",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248782",
+        "LAT": "29.03110",
+        "LNG": "-82.57426"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "55",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248818",
+        "LAT": "29.03108",
+        "LNG": "-82.57433"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "55",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248854",
+        "LAT": "29.03106",
+        "LNG": "-82.57441"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248923",
+        "LAT": "29.03102",
+        "LNG": "-82.57448"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684248991",
+        "LAT": "29.03095",
+        "LNG": "-82.57462"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249027",
+        "LAT": "29.03091",
+        "LNG": "-82.57460"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "56",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249063",
+        "LAT": "29.03086",
+        "LNG": "-82.57473"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "57",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249100",
+        "LAT": "29.03089",
+        "LNG": "-82.57457"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "57",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249136",
+        "LAT": "29.03094",
+        "LNG": "-82.57410"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "57",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249172",
+        "LAT": "29.03089",
+        "LNG": "-82.57372"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "59",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249207",
+        "LAT": "29.03085",
+        "LNG": "-82.57327"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "58",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249243",
+        "LAT": "29.03083",
+        "LNG": "-82.57330"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "58",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249279",
+        "LAT": "29.03079",
+        "LNG": "-82.57327"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "58",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249315",
+        "LAT": "29.03077",
+        "LNG": "-82.57326"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "58",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249351",
+        "LAT": "29.03074",
+        "LNG": "-82.57321"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "59",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249387",
+        "LAT": "29.03071",
+        "LNG": "-82.57326"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "59",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249456",
+        "LAT": "29.03073",
+        "LNG": "-82.57328"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "59",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249492",
+        "LAT": "29.03066",
+        "LNG": "-82.57336"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "60",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249528",
+        "LAT": "29.03061",
+        "LNG": "-82.57329"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "60",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249564",
+        "LAT": "29.03053",
+        "LNG": "-82.57324"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "60",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249600",
+        "LAT": "29.03046",
+        "LNG": "-82.57327"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "60",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249637",
+        "LAT": "29.03047",
+        "LNG": "-82.57334"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "60",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249673",
+        "LAT": "29.03034",
+        "LNG": "-82.57322"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "61",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249709",
+        "LAT": "29.03032",
+        "LNG": "-82.57338"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "61",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249745",
+        "LAT": "29.03031",
+        "LNG": "-82.57348"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "61",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249781",
+        "LAT": "29.03024",
+        "LNG": "-82.57346"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "62",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249817",
+        "LAT": "29.03023",
+        "LNG": "-82.57352"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "62",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249852",
+        "LAT": "29.03020",
+        "LNG": "-82.57352"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "62",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249888",
+        "LAT": "29.03015",
+        "LNG": "-82.57352"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "63",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249924",
+        "LAT": "29.03012",
+        "LNG": "-82.57362"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "63",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249960",
+        "LAT": "29.02999",
+        "LNG": "-82.57335"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "63",
+        "FLTP": "199",
+        "TIMESTAMP": "1684249996",
+        "LAT": "29.02997",
+        "LNG": "-82.57342"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "63",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250032",
+        "LAT": "29.02995",
+        "LNG": "-82.57357"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "63",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250105",
+        "LAT": "29.02988",
+        "LNG": "-82.57357"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "64",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250141",
+        "LAT": "29.02982",
+        "LNG": "-82.57362"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "64",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250209",
+        "LAT": "29.02979",
+        "LNG": "-82.57388"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "64",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250245",
+        "LAT": "29.02971",
+        "LNG": "-82.57358"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "64",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250282",
+        "LAT": "29.02962",
+        "LNG": "-82.57357"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "64",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250318",
+        "LAT": "29.02965",
+        "LNG": "-82.57365"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "65",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250354",
+        "LAT": "29.02965",
+        "LNG": "-82.57362"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "65",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250394",
+        "LAT": "29.02968",
+        "LNG": "-82.57371"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "65",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250463",
+        "LAT": "29.02968",
+        "LNG": "-82.57371"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "65",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250499",
+        "LAT": "29.02966",
+        "LNG": "-82.57370"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "65",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250535",
+        "LAT": "29.02969",
+        "LNG": "-82.57376"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "65",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250571",
+        "LAT": "29.02966",
+        "LNG": "-82.57367"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "65",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250607",
+        "LAT": "29.02972",
+        "LNG": "-82.57381"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "66",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250643",
+        "LAT": "29.02969",
+        "LNG": "-82.57370"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "66",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250679",
+        "LAT": "29.02964",
+        "LNG": "-82.57364"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "66",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250715",
+        "LAT": "29.02969",
+        "LNG": "-82.57377"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "66",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250783",
+        "LAT": "29.02966",
+        "LNG": "-82.57364"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "66",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250819",
+        "LAT": "29.02967",
+        "LNG": "-82.57370"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "66",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250855",
+        "LAT": "29.02962",
+        "LNG": "-82.57362"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "67",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250891",
+        "LAT": "29.02966",
+        "LNG": "-82.57372"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "67",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250927",
+        "LAT": "29.02969",
+        "LNG": "-82.57378"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "67",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250963",
+        "LAT": "29.02968",
+        "LNG": "-82.57375"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "67",
+        "FLTP": "199",
+        "TIMESTAMP": "1684250999",
+        "LAT": "29.02967",
+        "LNG": "-82.57368"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "67",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251068",
+        "LAT": "29.02965",
+        "LNG": "-82.57371"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "68",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251104",
+        "LAT": "29.02962",
+        "LNG": "-82.57358"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "68",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251140",
+        "LAT": "29.02964",
+        "LNG": "-82.57369"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "68",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251176",
+        "LAT": "29.02971",
+        "LNG": "-82.57391"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "68",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251212",
+        "LAT": "29.02954",
+        "LNG": "-82.57332"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "33",
+        "RH": "68",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251248",
+        "LAT": "29.02972",
+        "LNG": "-82.57384"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "68",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251284",
+        "LAT": "29.02967",
+        "LNG": "-82.57368"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251320",
+        "LAT": "29.02966",
+        "LNG": "-82.57372"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251356",
+        "LAT": "29.02967",
+        "LNG": "-82.57378"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251392",
+        "LAT": "29.02974",
+        "LNG": "-82.57395"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251432",
+        "LAT": "29.02969",
+        "LNG": "-82.57374"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251468",
+        "LAT": "29.02968",
+        "LNG": "-82.57373"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251504",
+        "LAT": "29.02969",
+        "LNG": "-82.57376"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251540",
+        "LAT": "29.02968",
+        "LNG": "-82.57369"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251576",
+        "LAT": "29.02968",
+        "LNG": "-82.57375"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251612",
+        "LAT": "29.02963",
+        "LNG": "-82.57362"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251648",
+        "LAT": "29.02965",
+        "LNG": "-82.57368"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251684",
+        "LAT": "29.02969",
+        "LNG": "-82.57384"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251720",
+        "LAT": "29.02965",
+        "LNG": "-82.57369"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251756",
+        "LAT": "29.02968",
+        "LNG": "-82.57370"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251792",
+        "LAT": "29.02969",
+        "LNG": "-82.57375"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251861",
+        "LAT": "29.02968",
+        "LNG": "-82.57369"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251897",
+        "LAT": "29.02963",
+        "LNG": "-82.57362"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251933",
+        "LAT": "29.02965",
+        "LNG": "-82.57361"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684251969",
+        "LAT": "29.02970",
+        "LNG": "-82.57373"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252005",
+        "LAT": "29.02968",
+        "LNG": "-82.57377"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252041",
+        "LAT": "29.02964",
+        "LNG": "-82.57374"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252077",
+        "LAT": "29.02965",
+        "LNG": "-82.57369"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252113",
+        "LAT": "29.02975",
+        "LNG": "-82.57394"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252149",
+        "LAT": "29.02963",
+        "LNG": "-82.57357"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252185",
+        "LAT": "29.02966",
+        "LNG": "-82.57359"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252221",
+        "LAT": "29.02967",
+        "LNG": "-82.57368"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252257",
+        "LAT": "29.02965",
+        "LNG": "-82.57366"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252293",
+        "LAT": "29.02972",
+        "LNG": "-82.57382"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "71",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252362",
+        "LAT": "29.02971",
+        "LNG": "-82.57388"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "71",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252398",
+        "LAT": "29.02969",
+        "LNG": "-82.57380"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "71",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252434",
+        "LAT": "29.02967",
+        "LNG": "-82.57370"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "71",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252469",
+        "LAT": "29.02972",
+        "LNG": "-82.57384"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "71",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252510",
+        "LAT": "29.02963",
+        "LNG": "-82.57366"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "72",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252546",
+        "LAT": "29.02967",
+        "LNG": "-82.57365"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "72",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252586",
+        "LAT": "29.02987",
+        "LNG": "-82.57381"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "72",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252622",
+        "LAT": "29.02986",
+        "LNG": "-82.57420"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "71",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252658",
+        "LAT": "29.02909",
+        "LNG": "-82.57621"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252694",
+        "LAT": "29.03007",
+        "LNG": "-82.57891"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "69",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252767",
+        "LAT": "29.02884",
+        "LNG": "-82.58354"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252841",
+        "LAT": "29.02904",
+        "LNG": "-82.58434"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252915",
+        "LAT": "29.02856",
+        "LNG": "-82.59189"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684252990",
+        "LAT": "29.02734",
+        "LNG": "-82.59720"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253067",
+        "LAT": "29.02497",
+        "LNG": "-82.59690"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253107",
+        "LAT": "29.02490",
+        "LNG": "-82.59641"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "70",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253143",
+        "LAT": "29.02496",
+        "LNG": "-82.59673"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "71",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253218",
+        "LAT": "29.02392",
+        "LNG": "-82.59742"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "71",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253259",
+        "LAT": "29.02249",
+        "LNG": "-82.59840"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "71",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253304",
+        "LAT": "29.02228",
+        "LNG": "-82.59789"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "71",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253382",
+        "LAT": "29.02229",
+        "LNG": "-82.59759"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "73",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253429",
+        "LAT": "29.02246",
+        "LNG": "-82.59752"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "75",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253507",
+        "LAT": "29.02268",
+        "LNG": "-82.59809"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "34",
+        "RH": "74",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253583",
+        "LAT": "29.01923",
+        "LNG": "-82.59972"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "74",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253657",
+        "LAT": "29.01373",
+        "LNG": "-82.59880"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "74",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253729",
+        "LAT": "29.01044",
+        "LNG": "-82.60224"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "74",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253765",
+        "LAT": "29.01021",
+        "LNG": "-82.60229"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "75",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253834",
+        "LAT": "29.01075",
+        "LNG": "-82.60162"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "75",
+        "FLTP": "199",
+        "TIMESTAMP": "1684253922",
+        "LAT": "29.01734",
+        "LNG": "-82.59949"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "75",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254002",
+        "LAT": "29.02452",
+        "LNG": "-82.59727"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "75",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254039",
+        "LAT": "29.02808",
+        "LNG": "-82.59694"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "74",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254076",
+        "LAT": "29.02853",
+        "LNG": "-82.59243"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "74",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254153",
+        "LAT": "29.02897",
+        "LNG": "-82.58300"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "74",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254190",
+        "LAT": "29.03018",
+        "LNG": "-82.57882"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "74",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254226",
+        "LAT": "29.02881",
+        "LNG": "-82.57580"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "74",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254267",
+        "LAT": "29.03087",
+        "LNG": "-82.57324"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "75",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254303",
+        "LAT": "29.03248",
+        "LNG": "-82.57293"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "77",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254376",
+        "LAT": "29.03298",
+        "LNG": "-82.57370"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "77",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254412",
+        "LAT": "29.03320",
+        "LNG": "-82.57380"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "78",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254498",
+        "LAT": "29.03309",
+        "LNG": "-82.57397"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "79",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254550",
+        "LAT": "29.03311",
+        "LNG": "-82.57404"
+    },
+    {
+        "SURVEYID": "gb-lry",
+        "DEVICEID": "gb-lry-two",
+        "TEMP": "35",
+        "RH": "79",
+        "FLTP": "199",
+        "TIMESTAMP": "1684254608",
+        "LAT": "29.03310",
+        "LNG": "-82.57423"
+    }
+]

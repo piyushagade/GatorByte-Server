@@ -1,0 +1,62 @@
+#!/usr/bin/env node
+const app = require('../app').app;
+const http = require('http');
+const https = require('https');
+const fs = require('fs');
+const aux = require('./aux');
+
+/* 
+    ! HTTP server configuration
+*/
+
+const secure = false; // Since nginx is being used as a proxy server, node server can be non-https.
+
+// Normalize a port into a number, string, or false.
+function normalize(val) {
+    var port = parseInt(val, 10);
+    if (isNaN(port)) return val;
+    if (port >= 0) return port;
+    return false;
+}
+
+// Set port
+var port = normalize(secure ? '1221' : '1222');
+app.set('port', port);
+
+// Create server object
+var server;
+if (secure)
+    server = https.createServer({
+        cert: fs.readFileSync('/etc/letsencrypt/live/ezbean-lab.com/fullchain.pem'),
+        key: fs.readFileSync('/etc/letsencrypt/live/ezbean-lab.com/privkey.pem')
+    }, app);
+else server = http.createServer(app);
+
+/*
+    ! SocketIO configuration
+*/
+
+server.listen(port, function () {
+    console.log((secure ? "HTTPS" : "HTTP") + " server started on port " + port);
+
+    var io = require('socket.io')(server, {
+        allowEIO3: true,
+        cors: {
+            origin: "*",
+            methods: ["GET", "POST"]
+        }
+    });
+    
+    io.on('connection', (socket) => {
+        const version = socket.conn.protocol;
+        console.log("A SocketIO connection was made with a client with version:" + version + ".");
+    
+        // On connection
+        // require('../app/controllers/v2/routes/gatorbyte/route').onConnection(io, socket);
+        require('../app/controllers/v3/routes/gatorbyte/route').connection(io, socket);
+
+        // // Override console class's prototypes
+        // aux.console(io);
+    });
+    
+});

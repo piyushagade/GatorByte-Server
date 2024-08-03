@@ -1,0 +1,11 @@
+{
+    "site-id": "gb-vt-0",
+    "location-name": "GB-VT-0",
+    "installed-on": "02/11/2019",
+    "address": {
+        "location": "1741 Meuseum Rd",
+        "coordinates": [29.523252, -82.301510]
+    },
+    "active": true,
+    "sensor": null
+}

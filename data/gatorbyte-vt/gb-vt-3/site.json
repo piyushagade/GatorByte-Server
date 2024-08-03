@@ -1,0 +1,11 @@
+{
+    "site-id": "gb-vt-3",
+    "location-name": "FB Residential",
+    "installed-on": "02/20/2020",
+    "address": {
+        "location": "Kempsville Rd, Virginia Beach, VA 23464",
+        "coordinates": [36.777639, -76.197583]
+    },
+    "active": true,
+    "sensor": null
+}

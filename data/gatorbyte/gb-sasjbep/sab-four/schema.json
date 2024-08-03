@@ -1,0 +1,261 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "SiteConfigurationSchema",
+    "type": "object",
+    "properties": {
+        "SITE-ID": {
+            "type": "string"
+        },
+        "SITE-METADATA": {
+            "type": "object",
+            "properties": {
+                "LOCATION-NAME": {
+                    "type": "string",
+                    "name": "Location name"
+                },
+                "INSTALLED-ON": {
+                    "type": "string",
+                    "format": "date",
+                    "name": "Installation timestamp"
+                },
+                "ADDRESS": {
+                    "type": "object",
+                    "properties": {
+                        "LOCATION": {
+                            "type": "string",
+                            "name": "Address"
+                        },
+                        "COORDINATES": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "number"
+                                }
+                            ]
+                        }
+                    },
+                    "required": [
+                        "LOCATION"
+                    ]
+                }
+            },
+            "required": [
+                "LOCATION-NAME",
+                "INSTALLED-ON",
+                "ADDRESS"
+            ]
+        },
+        "ACTIVE": {
+            "type": "boolean"
+        },
+        "VARIABLES": {
+            "type": "object",
+            "properties": {
+                "MM-TO-INCH-FACTOR": {
+                    "type": "number"
+                },
+                "STATION-ID": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "MM-TO-INCH-FACTOR",
+                "STATION-ID"
+            ]
+        },
+        "DATA-FIELDS": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/DataField"
+            }
+        },
+        "CONTROL": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/ControlItem"
+            }
+        }
+    },
+    "required": [
+        "SITE-ID",
+        "SITE-METADATA",
+        "ACTIVE",
+        "VARIABLES",
+        "DATA-FIELDS",
+        "CONTROL"
+    ],
+    "definitions": {
+        "DataField": {
+            "type": "object",
+            "properties": {
+                "ID": {
+                    "type": "string",
+                    "name": "Field ID"
+                },
+                "NAME": {
+                    "type": "string",
+                    "name": "Field name"
+                },
+                "UNITS": {
+                    "type": "string",
+                    "name": "Unit"
+                },
+                "ORDER": {
+                    "type": "integer",
+                    "name": "Order"
+                },
+                "HIGHLIGHT": {
+                    "type": "boolean",
+                    "name": "Highlighted"
+                },
+                "FORMULA": {
+                    "type": "string",
+                    "name": "Formula"
+                },
+                "CHART": {
+                    "$ref": "#/definitions/Chart"
+                },
+                "TABLE": {
+                    "$ref": "#/definitions/Table"
+                },
+                "DESCRIPTION": {
+                    "type": "string",
+                    "name": "Description"
+                },
+                "BRAND": {
+                    "type": "string",
+                    "name": "Manufacturer"
+                },
+                "CALIBRATION": {
+                    "type": "object",
+                    "properties": {
+                        "LAST-CALIBRATED": {
+                            "type": "string",
+                            "format": "date",
+                            "name": "Last calibrated on"
+                        },
+                        "TYPE": {
+                            "type": "string",
+                            "name": "Type"
+                        },
+                        "VALUE": {
+                            "type": "number",
+                            "name": "Value"
+                        },
+                        "DESCRIPTION": {
+                            "type": "string",
+                            "name": "Description"
+                        }
+                    },
+                    "required": [
+                        "REQUIRED",
+                        "LAST-CALIBRATED",
+                        "TYPE",
+                        "VALUE",
+                        "DESCRIPTION"
+                    ]
+                }
+            },
+            "required": [
+                "ID",
+                "NAME",
+                "UNITS",
+                "ORDER",
+                "HIGHLIGHT",
+                "FORMULA",
+                "CHART",
+                "TABLE",
+                "DESCRIPTION",
+                "BRAND",
+                "CALIBRATION"
+            ]
+        },
+        "Chart": {
+            "type": "object",
+            "properties": {
+                "GROUP-NAME": {
+                    "type": "string",
+                    "name": "Group name"
+                },
+                "STATS": {
+                    "type": "object",
+                    "properties": {
+                        "VISIBLE": {
+                            "type": "boolean",
+                            "name": "Visible"
+                        },
+                        "METRICS": {
+                            "type": "array",
+                            "name": "Metrics",
+                            "items": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                },
+                "TYPE": {
+                    "type": "string",
+                    "name": "Type"
+                },
+                "BIN": {
+                    "type": "integer",
+                    "name": "Bin"
+                },
+                "GAPSIZE": {
+                    "type": "integer",
+                    "name": "Gap size"
+                }
+            },
+            "required": [
+                "GROUP-NAME",
+                "TYPE"
+            ]
+        },
+        "Table": {
+            "type": "object",
+            "properties": {
+                "GROUP-NAME": {
+                    "type": "string"
+                },
+                "PRECISION": {
+                    "type": "integer"
+                }
+            },
+            "required": [
+                "GROUP-NAME",
+                "PRECISION"
+            ]
+        },
+        "ControlItem": {
+            "type": "object",
+            "properties": {
+                "key": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "unit": {
+                    "type": "string"
+                },
+                "type": {
+                    "type": "string"
+                },
+                "format": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "key",
+                "name",
+                "unit",
+                "type",
+                "format",
+                "description"
+            ]
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "url": "mqtt.ezbean-lab.com",
+    "username": "pi",
+    "password": "abe-gb-mqtt",
+    "port": 1883,
+    "protocol": "http"
+}

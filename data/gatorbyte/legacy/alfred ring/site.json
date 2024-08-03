@@ -1,0 +1,15 @@
+{
+    "site-id": "alfred ring",
+    "location-name": "Alfred A. Ring Park",
+    "installed-on": "02/11/2019",
+    "address": {
+        "location": "1741 Mueseum Rd",
+        "coordinates": [29.630172, -82.322214]
+    },
+    "active": true,
+    "sensor": {
+        "name": "Atlas Scientific",
+        "distance-from-sensor-to-datum": 150.3,
+        "calibration-timestamp": "1595534827"
+    }
+}

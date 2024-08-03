@@ -1,0 +1,11 @@
+{
+    "site-id": "gb-vt-1",
+    "location-name": "Walmart site",
+    "installed-on": "02/20/2020",
+    "address": {
+        "location": "North Virginia Beach, Virginia Beach, VA 23451",
+        "coordinates": [36.848639, -76.020028]
+    },
+    "active": true,
+    "sensor": null
+}

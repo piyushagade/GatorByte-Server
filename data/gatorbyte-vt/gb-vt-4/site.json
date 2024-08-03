@@ -1,0 +1,11 @@
+{
+    "site-id": "gb-vt-4",
+    "location-name": "Hospital Drive",
+    "installed-on": "02/20/2020",
+    "address": {
+        "location": "Hospital Dr, Fredericksburg, VA 22401",
+        "coordinates": [38.310528, -77.486833]
+    },
+    "active": true,
+    "sensor": null
+}

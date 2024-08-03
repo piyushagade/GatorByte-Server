@@ -1,0 +1,15 @@
+{
+    "site-id": "swb",
+    "location-name": "Sweetwater Branch",
+    "installed-on": "02/11/2019",
+    "address": {
+        "location": "SE 16th Ave & Willinston Rd",
+        "coordinates": [29.630172, -82.322214]
+    },
+    "active": true,
+    "sensor": {
+        "name": "Sweetwater Branch",
+        "distance-from-sensor-to-datum": 150.3,
+        "calibration-timestamp": "1595534827"
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "uwre": {
+        "NAME": "UWRE",
+        "ID": "uwre",
+        "ACTIVE": true,
+        "SITES": [
+            {
+                "SITE-ID": "swb",
+                "SITE-TYPE": "gatorbit"
+            },
+            {
+                "SITE-ID": "gb-lab",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-creek",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-lake",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-vt-0",
+                "SITE-TYPE": "gatorbyte-vt"
+            },
+            {
+                "SITE-ID": "gb-swb",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-swb-val",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "mqttfx",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "chewakla",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-bench-top",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-demo-buoy",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-lab-buoy",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "caip",
+                "SITE-TYPE": "gatorbyte"
+            }
+        ]
+    },
+    "irrec": {
+        "NAME": "IRREC",
+        "ID": "irrec",
+        "ACTIVE": true,
+        "SITES": [
+            {
+                "SITE-ID": "gb-irrec-one",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-irrec-two",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-irrec-three",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-irrec-four",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-irrec-five",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-irrec-six",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-irrec-seven",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-irrec-eight",
+                "SITE-TYPE": "gatorbyte"
+            }
+        ]
+    },
+    "chmd": {
+        "NAME": "Chamoda's project",
+        "ID": "chmd",
+        "ACTIVE": true,
+        "SITES": [
+            {
+                "SITE-ID": "gb-chmd-one",
+                "SITE-TYPE": "gatorbyte"
+            }
+        ]
+    },
+    "leary": {
+        "NAME": "Dr. Leary's project",
+        "ID": "leary",
+        "ACTIVE": true,
+        "SITES": [
+            {
+                "SITE-ID": "gb-lry-one",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-lry-two",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-lry-three",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-lry-four",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-lry-five",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-lry-six",
+                "SITE-TYPE": "gatorbyte"
+            }
+        ]
+    },
+    "sasbjep": {
+        "NAME": "Dr. Ryann's project",
+        "ID": "sasbjep",
+        "ACTIVE": true,
+        "SITES": [
+            {
+                "SITE-ID": "gb-sasbjep-zero",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-sasbjep-one",
+                "SITE-TYPE": "gatorbyte"
+            },
+            {
+                "SITE-ID": "gb-sasbjep-two",
+                "SITE-TYPE": "gatorbyte"
+            }
+        ]
+    }
+}
